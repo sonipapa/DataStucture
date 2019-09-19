@@ -2,8 +2,8 @@
 
 Progress tracker for CS-1134
 
-  Homework
+  - Homework
   
-  Lab Code
+  - Lab Code
   
-  Python Practice
+  - Python Practice
